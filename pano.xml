@@ -3146,6 +3146,8 @@
       <hotspot title="VS" tilt="5.54" skinid="ht_image" target="" url="images/s04.png" id="" pan="-14.01" description=""/>
       <hotspot title="VS" tilt="-11.19" skinid="ht_image" target="" url="images/s05.png" id="" pan="25.5" description=""/>
       <hotspot title="VS" tilt="-5.95" skinid="ht_image" target="" url="images/s05.png" id="" pan="-22.58" description=""/>
+      <hotspot title="VS" tilt="-13.84" skinid="ht_image" target="" url="images/s06.png" id="" pan="-4.96" description=""/>
+      <hotspot title="VS" tilt="-17.29" skinid="ht_image" target="" url="images/a03.png" id="" pan="-9.17" description=""/>
     </hotspots>
     <media/>
     <transition zoomin="0" zoomfov="20" blendcolor="0x000000" zoomafterinfov="90" zoomout="0" zoomafteroutfov="20" enabled="1" type="crossdissolve" blendtime="0" zoomspeed="2" softedge="0" zoomoutpause="1"/>
@@ -3183,6 +3185,8 @@
       <hotspot title="VS" tilt="14.31" skinid="ht_image" target="" url="images/s03.png" id="" pan="-20.77" description=""/>
       <hotspot title="VS" tilt="-17.94" skinid="ht_image" target="" url="images/s04.png" id="" pan="-8.97" description=""/>
       <hotspot title="VS" tilt="-8.67" skinid="ht_image" target="" url="images/s05.png" id="" pan="27.42" description=""/>
+      <hotspot title="VS" tilt="-11.82" skinid="ht_image" target="" url="images/s06.png" id="" pan="11.52" description=""/>
+      <hotspot title="VS" tilt="-18.21" skinid="ht_image" target="" url="images/a03.png" id="" pan="10.85" description=""/>
     </hotspots>
     <media/>
     <transition zoomin="0" zoomfov="20" blendcolor="0x000000" zoomafterinfov="90" zoomout="0" zoomafteroutfov="20" enabled="1" type="crossdissolve" blendtime="0" zoomspeed="2" softedge="0" zoomoutpause="1"/>
@@ -3215,6 +3219,8 @@
       <hotspot title="VS" tilt="-26.47" skinid="ht_image" target="" url="images/s04.png" id="" pan="-141.39" description=""/>
       <hotspot title="VS" tilt="-13.86" skinid="ht_image" target="" url="images/s05.png" id="" pan="-121.93" description=""/>
       <hotspot title="VS" tilt="-8.63" skinid="ht_image" target="" url="images/s05.png" id="" pan="-51.15" description=""/>
+      <hotspot title="VS" tilt="-7.65" skinid="ht_image" target="" url="images/s06.png" id="" pan="-101.67" description=""/>
+      <hotspot title="VS" tilt="-3.95" skinid="ht_image" target="" url="images/a03.png" id="" pan="-106.51" description=""/>
     </hotspots>
     <media/>
     <transition zoomin="0" zoomfov="20" blendcolor="0x000000" zoomafterinfov="90" zoomout="0" zoomafteroutfov="20" enabled="1" type="crossdissolve" blendtime="0" zoomspeed="2" softedge="0" zoomoutpause="1"/>
@@ -3248,6 +3254,8 @@
       <hotspot title="VS" tilt="-15.78" skinid="ht_image" target="" url="images/s04.png" id="" pan="-13.37" description=""/>
       <hotspot title="VS" tilt="-9.61" skinid="ht_image" target="" url="images/s05.png" id="" pan="-53.68" description=""/>
       <hotspot title="VS" tilt="-9.55" skinid="ht_image" target="" url="images/s05.png" id="" pan="-359.23" description=""/>
+      <hotspot title="VS" tilt="-23.62" skinid="ht_image" target="" url="images/s06.png" id="" pan="-92.55" description=""/>
+      <hotspot title="VS" tilt="-16.07" skinid="ht_image" target="" url="images/a03.png" id="" pan="-126.13" description=""/>
     </hotspots>
     <media/>
     <transition zoomin="0" zoomfov="20" blendcolor="0x000000" zoomafterinfov="90" zoomout="0" zoomafteroutfov="20" enabled="1" type="crossdissolve" blendtime="0" zoomspeed="2" softedge="0" zoomoutpause="1"/>
@@ -3284,6 +3292,8 @@
       <hotspot title="VS" tilt="-7.48" skinid="ht_image" target="" url="images/s05.png" id="" pan="-290.06" description=""/>
       <hotspot title="VS" tilt="-14.31" skinid="ht_image" target="" url="images/s05.png" id="" pan="-329.65" description=""/>
       <hotspot title="VS" tilt="-15.11" skinid="ht_image" target="" url="images/s05.png" id="" pan="-108.42" description=""/>
+      <hotspot title="VS" tilt="-20.49" skinid="ht_image" target="" url="images/s06.png" id="" pan="-53.93" description=""/>
+      <hotspot title="VS" tilt="-12.4" skinid="ht_image" target="" url="images/a03.png" id="" pan="-28.81" description=""/>
     </hotspots>
     <media/>
     <transition zoomin="0" zoomfov="20" blendcolor="0x000000" zoomafterinfov="90" zoomout="0" zoomafteroutfov="20" enabled="1" type="crossdissolve" blendtime="0" zoomspeed="2" softedge="0" zoomoutpause="1"/>
@@ -3320,6 +3330,8 @@
       <hotspot title="VS" tilt="-10.6" skinid="ht_image" target="" url="images/s05.png" id="" pan="-113.59" description=""/>
       <hotspot title="VS" tilt="-18" skinid="ht_image" target="" url="images/s05.png" id="" pan="-325.4" description=""/>
       <hotspot title="VS" tilt="-17.69" skinid="ht_image" target="" url="images/s05.png" id="" pan="-201.56" description=""/>
+      <hotspot title="VS" tilt="-8.81" skinid="ht_image" target="" url="images/s06.png" id="" pan="-73.38" description=""/>
+      <hotspot title="VS" tilt="-8.08" skinid="ht_image" target="" url="images/a03.png" id="" pan="-64.5" description=""/>
     </hotspots>
     <media/>
     <transition zoomin="0" zoomfov="20" blendcolor="0x000000" zoomafterinfov="90" zoomout="0" zoomafteroutfov="20" enabled="1" type="crossdissolve" blendtime="0" zoomspeed="2" softedge="0" zoomoutpause="1"/>
@@ -3358,6 +3370,8 @@
       <hotspot title="VS" tilt="-13.06" skinid="ht_image" target="" url="images/s05.png" id="" pan="-162.32" description=""/>
       <hotspot title="VS" tilt="-13.5" skinid="ht_image" target="" url="images/s05.png" id="" pan="-251.56" description=""/>
       <hotspot title="VS" tilt="-14.89" skinid="ht_image" target="" url="images/s05.png" id="" pan="-343.93" description=""/>
+      <hotspot title="VS" tilt="-11.77" skinid="ht_image" target="" url="images/s06.png" id="" pan="-224.11" description=""/>
+      <hotspot title="VS" tilt="-5.08" skinid="ht_image" target="" url="images/a03.png" id="" pan="-224.25" description=""/>
     </hotspots>
     <media/>
     <transition zoomin="0" zoomfov="20" blendcolor="0x000000" zoomafterinfov="90" zoomout="0" zoomafteroutfov="20" enabled="1" type="crossdissolve" blendtime="0" zoomspeed="2" softedge="0" zoomoutpause="1"/>
@@ -4350,6 +4364,8 @@
       <hotspot title="VS" tilt="-0.1" skinid="ht_image" target="" url="images/l03.png" id="" pan="-6.11" description=""/>
       <hotspot title="VS" tilt="-7.6" skinid="ht_image" target="" url="images/l04.png" id="" pan="5.49" description=""/>
       <hotspot title="VS" tilt="-17.56" skinid="ht_image" target="" url="images/l06.png" id="" pan="1.39" description=""/>
+      <hotspot title="VS" tilt="6.94" skinid="ht_image" target="" url="images/a03.png" id="" pan="-35.92" description=""/>
+      <hotspot title="VS" tilt="5.25" skinid="ht_image" target="" url="images/a04.png" id="" pan="-40.55" description=""/>
     </hotspots>
     <media/>
     <transition zoomin="0" zoomfov="20" blendcolor="0x000000" zoomafterinfov="90" zoomout="0" zoomafteroutfov="20" enabled="1" type="crossdissolve" blendtime="0" zoomspeed="2" softedge="0" zoomoutpause="1"/>
@@ -4391,6 +4407,8 @@
       <hotspot title="VS" tilt="-18.79" skinid="ht_image" target="" url="images/l02.png" id="" pan="-16.89" description=""/>
       <hotspot title="VS" tilt="-11.5" skinid="ht_image" target="" url="images/l03.png" id="" pan="0.67" description=""/>
       <hotspot title="VS" tilt="-9.96" skinid="ht_image" target="" url="images/l05.png" id="" pan="-18.33" description=""/>
+      <hotspot title="VS" tilt="5.09" skinid="ht_image" target="" url="images/a03.png" id="" pan="32.05" description=""/>
+      <hotspot title="VS" tilt="11.15" skinid="ht_image" target="" url="images/a04.png" id="" pan="31.12" description=""/>
     </hotspots>
     <media/>
     <transition zoomin="0" zoomfov="20" blendcolor="0x000000" zoomafterinfov="90" zoomout="0" zoomafteroutfov="20" enabled="1" type="crossdissolve" blendtime="0" zoomspeed="2" softedge="0" zoomoutpause="1"/>
@@ -4426,6 +4444,8 @@
       <hotspot title="VS" tilt="-10.18" skinid="ht_image" target="" url="images/l04.png" id="" pan="-60.85" description=""/>
       <hotspot title="VS" tilt="-11.03" skinid="ht_image" target="" url="images/l05.png" id="" pan="-113.94" description=""/>
       <hotspot title="VS" tilt="-15.14" skinid="ht_image" target="" url="images/l06.png" id="" pan="-52.78" description=""/>
+      <hotspot title="VS" tilt="-11.69" skinid="ht_image" target="" url="images/a03.png" id="" pan="-206.35" description=""/>
+      <hotspot title="VS" tilt="-22.86" skinid="ht_image" target="" url="images/a04.png" id="" pan="-219.7" description=""/>
     </hotspots>
     <media/>
     <transition zoomin="0" zoomfov="20" blendcolor="0x000000" zoomafterinfov="90" zoomout="0" zoomafteroutfov="20" enabled="1" type="crossdissolve" blendtime="0" zoomspeed="2" softedge="0" zoomoutpause="1"/>
@@ -4463,6 +4483,7 @@
       <hotspot title="VS" tilt="-6.18" skinid="ht_image" target="" url="images/l04.png" id="" pan="-92.46" description=""/>
       <hotspot title="VS" tilt="-10.12" skinid="ht_image" target="" url="images/l05.png" id="" pan="-122.29" description=""/>
       <hotspot title="VS" tilt="-7.37" skinid="ht_image" target="" url="images/l06.png" id="" pan="-97.71" description=""/>
+      <hotspot title="VS" tilt="-4.82" skinid="ht_image" target="" url="images/a04.png" id="" pan="-41.32" description=""/>
     </hotspots>
     <media/>
     <transition zoomin="0" zoomfov="20" blendcolor="0x000000" zoomafterinfov="90" zoomout="0" zoomafteroutfov="20" enabled="1" type="crossdissolve" blendtime="0" zoomspeed="2" softedge="0" zoomoutpause="1"/>
@@ -4502,6 +4523,8 @@
       <hotspot title="VS" tilt="-14.41" skinid="ht_image" target="" url="images/l05.png" id="" pan="-269.07" description=""/>
       <hotspot title="VS" tilt="-15.34" skinid="ht_image" target="" url="images/l06.png" id="" pan="-165.89" description=""/>
       <hotspot title="VS" tilt="-23.52" skinid="ht_image" target="" url="images/l06.png" id="" pan="-90.87" description=""/>
+      <hotspot title="VS" tilt="-9.35" skinid="ht_image" target="" url="images/a03.png" id="" pan="-346.24" description=""/>
+      <hotspot title="VS" tilt="-5.49" skinid="ht_image" target="" url="images/a04.png" id="" pan="-358.34" description=""/>
     </hotspots>
     <media/>
     <transition zoomin="0" zoomfov="20" blendcolor="0x000000" zoomafterinfov="90" zoomout="0" zoomafteroutfov="20" enabled="1" type="crossdissolve" blendtime="0" zoomspeed="2" softedge="0" zoomoutpause="1"/>
@@ -4543,6 +4566,8 @@
       <hotspot title="VS" tilt="-19.28" skinid="ht_image" target="" url="images/l06.png" id="" pan="-80.31" description=""/>
       <hotspot title="VS" tilt="-29.08" skinid="ht_image" target="" url="images/l06.png" id="" pan="-358.69" description=""/>
       <hotspot title="VS" tilt="-19.96" skinid="ht_image" target="" url="images/l06.png" id="" pan="-160" description=""/>
+      <hotspot title="VS" tilt="-5.26" skinid="ht_image" target="" url="images/a03.png" id="" pan="-99.54" description=""/>
+      <hotspot title="VS" tilt="-4.05" skinid="ht_image" target="" url="images/a04.png" id="" pan="-104.54" description=""/>
     </hotspots>
     <media/>
     <transition zoomin="0" zoomfov="20" blendcolor="0x000000" zoomafterinfov="90" zoomout="0" zoomafteroutfov="20" enabled="1" type="crossdissolve" blendtime="0" zoomspeed="2" softedge="0" zoomoutpause="1"/>
@@ -4616,6 +4641,8 @@
       <hotspot title="VS" tilt="-14.96" skinid="ht_image" target="" url="images/l05.png" id="" pan="-33.24" description=""/>
       <hotspot title="VS" tilt="-17.96" skinid="ht_image" target="" url="images/l06.png" id="" pan="-307.91" description=""/>
       <hotspot title="VS" tilt="-9.74" skinid="ht_image" target="" url="images/l06.png" id="" pan="-351.81" description=""/>
+      <hotspot title="VS" tilt="-19.99" skinid="ht_image" target="" url="images/a03.png" id="" pan="-131.79" description=""/>
+      <hotspot title="VS" tilt="-13.33" skinid="ht_image" target="" url="images/a04.png" id="" pan="-141.63" description=""/>
     </hotspots>
     <media/>
     <transition zoomin="0" zoomfov="20" blendcolor="0x000000" zoomafterinfov="90" zoomout="0" zoomafteroutfov="20" enabled="1" type="crossdissolve" blendtime="0" zoomspeed="2" softedge="0" zoomoutpause="1"/>
